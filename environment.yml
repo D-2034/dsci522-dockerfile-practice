@@ -2,7 +2,7 @@ name: IA_2_ENV
 channels:
   - conda-forge
 dependencies:
-  - jupyterlab
+  - jupyterlab=4.5.0
   - pandas=2.2.3
   - python=3.12
 prefix: C:\Users\jjyor\miniforge3\envs\IA_2_ENV
